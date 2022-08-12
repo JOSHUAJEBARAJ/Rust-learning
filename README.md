@@ -1,3 +1,3 @@
 # Rust-learning
 
-This is the rest learning 
+This is the rust learning 
